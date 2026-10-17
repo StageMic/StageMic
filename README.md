@@ -95,6 +95,10 @@ StageMic is proprietary software and requires a valid StageMic licence. Availabi
 Third-party components, including Electron, retain their respective licences. Their licence and copyright notices must be preserved with distributed builds.
 
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
 ## AI Use Disclaimer
 
 StageMic was conceived and directed by a solo developer, with features shaped by practical theatre experience. AI assisted with interface design, coding and automated testing, however, the app has received extensive testing by the developer, both during live shows and through simulated show scenarios.
