@@ -18,9 +18,15 @@ This repository provides StageMic downloads and release notes. StageMic is propr
 
 ## Download and install
 
-Download the latest macOS build from this repository's [Releases](../../releases/latest) page, extract the archive and move **StageMic.app** into your Applications folder.
+Download the latest build from this repository's [Releases](../../releases/latest) page, and follow the instructions below for your version.
 
-Open StageMic and activate it with your licence key. An internet connection is required for activation and any check-in required by your licence. Once activated, show control and backstage displays run locally within your offline licence allowance.
+### macOS
+Extract the archive and move the .app file to your Applications folder. Open StageMic, allow it to run in System Settings, and enter your Mac's login password when prompted to allow StageMic to store licence files in Keychain.
+
+### Windows
+Extract the archive and run StageMic.exe. This app is not Authenticode signed and therefore requires you to click "More info -> Run anyway".
+
+Once StageMic opens, activate it with your licence key. An internet connection is required for activation and any check-in required by your licence. Once activated, show control and backstage displays run locally within your offline licence allowance.
 
 ## Set up a show
 
