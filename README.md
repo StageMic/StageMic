@@ -97,16 +97,12 @@ Third-party components, including Electron, retain their respective licences. Th
 
 ## AI Use Disclaimer
 
-StageMic was built by a solo developer with help from AI Agents. We want to be upfront about that, and honest about how AI has been used. 
-
-The idea of StageMic, all its features, and the majority of the codebase are human-created. AI was used for the UI design, as we do not have a designer on the team. Additionally, some features were coded by AI. However, all AI-generated code has been checked by a human before even being executed.
-
-Its direction and development are guided by practical theatre experience and testing on real shows. StageMic was created because we needed it for a show. 
+StageMic was conceived and directed by a solo developer, with features shaped by practical theatre experience. AI assisted with interface design, coding and automated testing, however, the app has received extensive testing by the developer, both during live shows and through simulated show scenarios.
 
 ### Privacy
 We know that the use of AI in software can raise privacy concerns. 
 
-Your show files and autosaved work are stored locally on your computer. When you connect backstage displays, StageMic shares live show information directly with those devices over your local network, never the internet.
+Your show files and autosaved work are stored locally on your computer. When you connect backstage displays, StageMic shares live show information directly with those devices over your local network.
 
 StageMic does not upload your show data or usage analytics to us or to an AI provider.
 
